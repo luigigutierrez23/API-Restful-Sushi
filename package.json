@@ -10,7 +10,7 @@
     "clone-response": "^1.0.2",
     "decompress-response": "^3.3.0",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.7-alpha.4",
+    "express-fileupload": "^1.1.9",
     "jsonwebtoken": "^8.5.1",
     "make-dir": "^3.1.0",
     "mimic-response": "^1.0.1",

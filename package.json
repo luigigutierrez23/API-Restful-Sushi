@@ -21,7 +21,7 @@
     "nodemon": "^2.0.4",
     "nopt": "^1.0.10",
     "normalize-path": "^3.0.0",
-    "normalize-url": "^4.5.0",
+    "normalize-url": "^4.5.1",
     "p-cancelable": "^1.1.0",
     "picomatch": "^2.2.2",
     "prepend-http": "^2.0.0",
